@@ -9,7 +9,7 @@ html *
 }
 .sub-header {
    font-size: 2rem;
-
+   font-weight: 300;
 }
 .container {
    width: 100%;
@@ -38,5 +38,8 @@ html *
 @media only screen and (max-width: 600px) {
    .header {
       font-size: 2.6rem;
+   }
+   .sub-header {
+      font-size: 1.8rem;
    }
  }
