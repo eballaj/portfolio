@@ -1,2 +1,2 @@
 # Portfolio
-[ballaj.dev](ballaj.dev)
+[ballaj.dev](https://www.ballaj.dev)
